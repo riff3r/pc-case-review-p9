@@ -2,7 +2,7 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 mb-30">
+    <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 mb-32">
       <div className="pr-10 flex flex-col justify-center">
         <h2 className="text-5xl font-bold bg-red-600 text-center py-5 mb-5">
           Choose Best <span className="text-white">Case</span>
