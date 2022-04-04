@@ -82,5 +82,51 @@
       "Cabling is a squeeze",
       "Just one USB port on front panel"
     ]
+  },
+  {
+    "id": 505,
+    "title": "Thermaltake Divider 300 TG Review",
+    "productImage": "https://i.pcmag.com/imagery/reviews/032pyAgHLrYj30wOeAEkjom-1.fit_scale.size_1028x578.v1625006902.jpg",
+    "description": "Thermaltake's Divider 300 TG ARGB is a fairly plain-looking ATX case that's a breeze to build in, but it's a little pricey and configured better for a large air cooler than for a water cooler, leaving it in a tricky market position.",
+    "rating": 4.5,
+    "username": "John Burek",
+    "userImage": "https://i.pcmag.com/imagery/authors/02GaGK41YaCJlXnMD055ztd.fit_lim.size_100x100.v1560221559.jpg",
+    "date": "6/29/2021",
+    "pros": [
+      "Easy to build in",
+      "Sturdy design",
+      "Clean aesthetic look",
+      "Above-average storage mounts",
+      "Four preinstalled fans, three of which are ARGB-ready"
+    ],
+    "cons": [
+      "Priced slightly high for the feature set",
+      "Top of case doesn't support 240mm radiators",
+      "Not well-suited for water coolers"
+    ]
+  },
+
+  {
+    "id": 606,
+    "title": "Fractal Design Meshify 2 Review",
+    "productImage": "https://i.pcmag.com/imagery/reviews/06f5MfWzU93fWsaiKwq5MUy-1.fit_scale.size_1028x578.v1615582887.jpg",
+    "description": "Fractal Design’s Meshify 2 Compact is one of the best midtower cases we’ve tested in recent years. It’s aggressively priced, distinctive in look, and a joy to build inside.",
+    "rating": 4.5,
+    "username": "Allen Sexton",
+    "userImage": "https://i.pcmag.com/imagery/authors/02GaGK41YaCJlXnMD055ztd.fit_lim.size_100x100.v1560221559.jpg",
+    "date": "3/16/2021",
+    "pros": [
+      "Lightweight, yet solidly built",
+      "Attractive rumpled-metal aesthetic",
+      "Three USB ports on front/top panel",
+      "No RGB LEDs (a plus for some buyers)",
+      "Reasonably priced, and includes three fans",
+      "Easy to build in"
+    ],
+    "cons": [
+      "No RGB LEDs (a negative for some shoppers)",
+      "No tool-free mounting system for drives",
+      "Fifth and sixth drive mounts require optional hardware"
+    ]
   }
 ]

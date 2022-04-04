@@ -5,7 +5,7 @@ const Banner = () => {
     <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 mb-32">
       <div className="pr-10 flex flex-col justify-center">
         <h2 className="text-5xl font-bold bg-red-600 text-center py-5 mb-5">
-          Choose Best <span className="text-white">Case</span>
+          Choose Best <span className="text-white">PC Case</span>
         </h2>
         <p className="leading-7 text-gray-700 mb-10">
           There's plenty of terminology to know when shopping for a new PC case,
