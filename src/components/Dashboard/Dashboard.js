@@ -28,14 +28,17 @@ const Dashboard = () => {
           <Tooltip />
           <Legend />
           <CartesianGrid stroke="#f5f5f5" />
+
           <Area
             type="monotone"
             dataKey="investment"
             fill="#8884d8"
             stroke="#8884d8"
           />
+
           <Bar dataKey="revenue" barSize={20} fill="#413ea0" />
-          <Line type="monotone" dataKey="investment" stroke="#ff7300" />
+
+          <Line type="monotone" dataKey="sell" stroke="#ff7300" />
         </ComposedChart>
 
         <BarChart width={600} height={250} data={data}>

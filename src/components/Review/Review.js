@@ -28,9 +28,10 @@ const Review = ({ review }) => {
           ></Rating>
         </div>
 
-        <div className="flex justify-between mb-3 text-gray-500">
-          <h3 className="text-lg">
-            By <span className="text-red-600">{review.username}</span>
+        <div className="flex justify-between items-center mb-3 text-gray-500">
+          <h3 className="flex items-center gap-2 text-lg">
+            <img class="w-10 rounded-full" src={review.authorImage} alt="" />
+            By <span className="text-red-600">{review.author}</span>
           </h3>
           <span>{review.date}</span>
         </div>
